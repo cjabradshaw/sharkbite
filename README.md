@@ -1,13 +1,13 @@
 ## Shark bites analysis
-##
-## Accompanies the article: "BRADSHAW, CJA, P MEAGHER, MJ THIELE, CA SIMPFENDORFER, RG HARCOURT, C HUVENEERS. In review. 
-## Predicting potential future reduction in shark attack. People and Nature. In review
-##
-## April 2020
-##
-## Corey J. A. Bradshaw (corey.bradshaw@flinders.edu.au)
-## Global Ecology, Flinders University
-## GlobalEcologyFlinders.com
+
+Accompanies the article: "BRADSHAW, CJA, P MEAGHER, MJ THIELE, CA SIMPFENDORFER, RG HARCOURT, C HUVENEERS. In review. 
+Predicting potential future reduction in shark attack. People and Nature. In review
+
+April 2020
+
+Corey J. A. Bradshaw (corey.bradshaw@flinders.edu.au)
+Global Ecology, Flinders University
+GlobalEcologyFlinders.com
 
 The R code attached reproduces an analysis to predict the number of people who could avoid being bitten by a shark in Australia from 2020-2066 if wearing electronic deterrents.
 
