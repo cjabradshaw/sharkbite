@@ -1,7 +1,7 @@
 ## Shark bites analysis
 
-Accompanies the article: "BRADSHAW, CJA, P MEAGHER, MJ THIELE, CA SIMPFENDORFER, RG HARCOURT, C HUVENEERS. In review. 
-Predicting potential future reduction in shark attack. People and Nature. In review
+Accompanies the article: "BRADSHAW, CJA, P MEAGHER, MJ THIELE, RG HARCOURT, C HUVENEERS. In review. 
+Predicting potential future reduction in shark bites on people. People and Nature. In review
 
 April 2020
 
