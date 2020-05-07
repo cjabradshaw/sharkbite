@@ -1,9 +1,9 @@
 ## Shark bites analysis
 
 Accompanies the article: BRADSHAW, CJA, P MEAGHER, MJ THIELE, RG HARCOURT, C HUVENEERS. In review. 
-Predicting potential future reduction in shark bites on people. People and Nature
+Predicting potential future reduction in shark bites on people. Science of the Total Environment
 
-April 2020
+May 2020
 
 Corey J. A. Bradshaw (corey.bradshaw@flinders.edu.au)
 Global Ecology, Flinders University
