@@ -3,7 +3,7 @@
 <a href="https://doi.org/10.5281/zenodo.4461747"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4461748.svg"></a>
 
 Accompanies the article: BRADSHAW, CJA, P MEAGHER, MJ THIELE, RG HARCOURT, C HUVENEERS. 2021. 
-Predicting potential future reduction in shark bites on people. Royal Society Open Science
+Predicting potential future reduction in shark bites on people. Royal Society Open Science. In press
 
 January 2021
 
