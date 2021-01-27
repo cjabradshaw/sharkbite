@@ -1,6 +1,6 @@
 ## Shark bites analysis
-## Accompanies the article: "BRADSHAW, CJA, P MEAGHER, MJ THIELE, CA SIMPFENDORFER, RG HARCOURT, C HUVENEERS. In review. Predicting
-##  potential future reduction in shark attack. People and Nature. In review
+## Accompanies the article: "BRADSHAW, CJA, P MEAGHER, MJ THIELE, CA SIMPFENDORFER, RG HARCOURT, C HUVENEERS. 2021. Predicting
+##  potential future reduction in shark attack. Royal Society Open Science. In press
 ## April 2020
 ## Corey J. A. Bradshaw (corey.bradshaw@flinders.edu.au)
 ## Global Ecology, Flinders University
