@@ -2,7 +2,7 @@
 
 <a href="https://doi.org/10.5281/zenodo.4461747"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4461748.svg"></a>
 
-Accompanies the article: BRADSHAW, CJA, P MEAGHER, MJ THIELE, RG HARCOURT, C HUVENEERS. 2021. 
+Accompanies the article: <a href="http://www.flinders.edu.au/people/corey.bradshaw">BRADSHAW, CJA</a>, <a href="https://taronga.org.au/zoo-friends-at-home/team-taronga-wildlife-conservation-officer">P MEAGHER</a>, <a href="https://globalecologyflinders.com/people/#MT">MJ THIELE</a>, <a href="https://directory.science.mq.edu.au/users/rharcour">RG HARCOURT</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C HUVENEERS</a>. 2021. 
 <a href="https://doi.org/10.1098/rsos.201197">Predicting potential future reduction in shark bites on people</a>. <em>Royal Society Open Science </em> doi:10.1098/rsos.201197
 
 January 2021
@@ -15,7 +15,7 @@ The <a href="https://github.com/cjabradshaw/sharkbite/blob/master/sharkbiteGithu
 
 The analysis requires four different data files:
 
-1. Australian Shark Attack File ('sharkbite.exp.csv') — for proprietry reasons, this dataset is only available upon request to Taronga Conservation Society Australia, Taronga Zoo, Sydney, New South Wales, Australia
+1. Australian Shark Attack File ('sharkbite.exp.csv') — for proprietry reasons, this dataset is only available upon request to <a href="https://taronga.org.au/">Taronga Conservation Society Australia</a> (attn: <a href="mailto:pmeagher@zoo.nsw.gov.au">Phoebe Meagher</a>), Taronga Zoo, Sydney, New South Wales, Australia
 
 2. Monthly southern oscillation index (soi) values from the Australian Bureau of Meteorology (BoM) ('<a href="https://github.com/cjabradshaw/sharkbite/blob/master/soi.csv">soi.csv</a>')
 
