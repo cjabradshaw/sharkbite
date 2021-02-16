@@ -9,7 +9,7 @@ January 2021
 
 Corey J. A. Bradshaw (corey.bradshaw@flinders.edu.au)
 Global Ecology, Flinders University
-GlobalEcologyFlinders.com
+<a href="http://GlobalEcologyFlinders.com">GlobalEcologyFlinders.com</a>
 
 The <a href="https://github.com/cjabradshaw/sharkbite/blob/master/sharkbiteGithub.R">R code</a> attached reproduces an analysis to predict the number of people who could avoid being bitten by a shark in Australia from 2020-2066 if wearing electronic deterrents.
 
