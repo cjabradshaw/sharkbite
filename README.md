@@ -3,7 +3,7 @@
 <a href="https://doi.org/10.5281/zenodo.4461747"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4461748.svg"></a>
 
 Accompanies the article: <a href="http://www.flinders.edu.au/people/corey.bradshaw">BRADSHAW, CJA</a>, <a href="https://taronga.org.au/zoo-friends-at-home/team-taronga-wildlife-conservation-officer">P MEAGHER</a>, <a href="https://globalecologyflinders.com/people/#MT">MJ THIELE</a>, <a href="https://directory.science.mq.edu.au/users/rharcour">RG HARCOURT</a>, <a href="https://www.flinders.edu.au/people/charlie.huveneers">C HUVENEERS</a>. 2021. 
-<a href="https://doi.org/10.1098/rsos.201197">Predicting potential future reduction in shark bites on people</a>. <em>Royal Society Open Science </em> doi:10.1098/rsos.201197
+<a href="https://doi.org/10.1098/rsos.201197">Predicting potential future reduction in shark bites on people</a>. <em>Royal Society Open Science</em> 8: 201197. doi:10.1098/rsos.201197
 
 January 2021
 
