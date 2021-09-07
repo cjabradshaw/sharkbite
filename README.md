@@ -23,4 +23,4 @@ The analysis requires four different data files:
 
 4. Australian population size estimates (past) and projections to 2066 ('<a href="https://github.com/cjabradshaw/sharkbite/blob/master/auspop.csv">auspop.csv</a>') from the Australian Bureau of Statistics
 
-Also accompanying the code are two source files with additional functions necessary to reproduce the analyses ('<a href="https://github.com/cjabradshaw/sharkbite/blob/master/r.squared.R">r.squared.R</a>' & '<a href="https://github.com/cjabradshaw/sharkbite/blob/master/new_lmer_AIC_tables3.r">new_lmer_AIC_tables3.R</a>')
+Also accompanying the code are two source files with additional functions necessary to reproduce the analyses (<a href="https://github.com/cjabradshaw/sharkbite/blob/master/r.squared.R"><code>r.squared.R</code></a> & <a href="https://github.com/cjabradshaw/sharkbite/blob/master/new_lmer_AIC_tables3.r"><code>new_lmer_AIC_tables3.R</code></a>)
