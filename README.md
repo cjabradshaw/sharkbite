@@ -1,4 +1,5 @@
 ## Shark bites analysis
+<img align="right" src="sharkbite.png" alt="shark bite" width="200" style="margin-top: 20px">
 
 <a href="https://doi.org/10.5281/zenodo.4461747"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4461748.svg"></a>
 
