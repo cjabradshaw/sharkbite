@@ -19,7 +19,7 @@ The <a href="https://github.com/cjabradshaw/sharkbite/blob/master/sharkbiteGithu
 
 The analysis requires four different data files:
 
-1. Australian Shark Attack File ('sharkbite.exp.csv') — for proprietry reasons, this dataset is only available upon request to <a href="https://taronga.org.au/">Taronga Conservation Society Australia</a> (attn: <a href="mailto:pmeagher@zoo.nsw.gov.au">Phoebe Meagher</a>), Taronga Zoo, Sydney, New South Wales, Australia (but see this repository: <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase"><em>Australian Shark Incident Database</em></a>)
+1. Australian Shark Attack File ('sharkbite.exp.csv') — for proprietry reasons, this dataset is only available upon request to <a href="https://taronga.org.au/">Taronga Conservation Society Australia</a> (attn: <a href="mailto:pmeagher@zoo.nsw.gov.au">Phoebe Meagher</a>), Taronga Zoo, Sydney, New South Wales, Australia (but see this repository: <a href="https://github.com/cjabradshaw/AustralianSharkIncidentDatabase"><em>Australian Shark-Incident Database</em></a>)
 
 2. Monthly southern oscillation index (soi) values from the Australian <a href="http://www.bom.gov.au">Bureau of Meteorology</a> (BoM) ('<a href="https://github.com/cjabradshaw/sharkbite/blob/master/soi.csv">soi.csv</a>')
 
