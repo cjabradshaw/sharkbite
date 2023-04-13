@@ -30,4 +30,4 @@ The analysis requires four different data files:
 Also accompanying the code are two source files with additional functions necessary to reproduce the analyses (<a href="https://github.com/cjabradshaw/sharkbite/blob/master/r.squared.R"><code>r.squared.R</code></a> & <a href="https://github.com/cjabradshaw/sharkbite/blob/master/new_lmer_AIC_tables3.r"><code>new_lmer_AIC_tables3.R</code></a>)
 
 <a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a>
-<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> 
+<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> <a href="https://twitter.com/SouthernSharkEG"><img align="bottom-left" src="www/SSEG.png" alt="SSEG logo" width="150" style="margin-top: 20px"></a>
